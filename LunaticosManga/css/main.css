@@ -1,0 +1,25 @@
+@media only screen and (max-width: 1200px) {
+  div{
+    display: inline-block;
+  } 
+  #logo{
+    max-width: 20vw; 
+    max-height: 20vh;
+  }  
+  #logo img{
+    width: 100%;
+  }
+  h1{
+    font-size: 4vh; 
+    color: white;
+  }
+  input{
+    margin-top: 2vh;
+    max-width: 200vw; 
+    max-height: 25vh;
+  }
+  
+  header {
+      background-color: black;
+    }
+}
